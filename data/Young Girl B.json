@@ -8,5 +8,29 @@
     "percentToQualify": "100",
     "password": "Alternating/CBF",
     "records": [
+                                                                                        {
+            "user": "rob01",
+            "link": "https://www.youtube.com/watch?v=KRRoq9DKdUU",
+            "hz": 240,
+            "percent": 100
+         },
+                                                                                                {
+            "user": "ArturSPAM24",
+            "link": "https://youtube.com/shorts/cVVRA4jZ3IM?is=DyC-6N-GKT9h1iug",
+            "hz": 240,
+            "percent": 100
+         },
+                                                                                                        {
+            "user": "wucaf",
+            "link": "https://youtu.be/O5YDH09s0qc",
+            "hz": 240,
+            "percent": 100
+         },
+                                                                                                                {
+            "user": "ywuChaos",
+            "link": "hhttps://youtu.be/_A7o1HA8thw?si=TJGWWtnG78y8nfVh",
+            "hz": 240,
+            "percent": 100
+         }
     ]
 }
