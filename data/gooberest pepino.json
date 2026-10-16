@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "password": "Ludiwg/CBF",
     "records": [
+                                                                {
+            "user": "Lololowka",
+            "link": "https://www.youtube.com/watch?v=-_AULPfYbr4",
+            "percent": 100,
+            "hz": 100
+        },
+                                                                {
+            "user": "GMDMIRROR",
+            "link": "https://www.youtube.com/watch?v=zCCCK1STqLo",
+            "percent": 100,
+            "hz": 100
+        },
+                                                                {
+            "user": "S1rnikgmd",
+            "link": "https://www.youtube.com/watch?v=k9GWXhWgbeU",
+            "percent": 100,
+            "hz": 100
+        }
     ]
 }
