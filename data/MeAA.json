@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Alternating/60FPS",
     "records": [
+                        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=Wmk3B_7h5_A",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
