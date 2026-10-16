@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "password": "Alternating/Altjitter/CBF",
     "records": [
+                                                                {
+            "user": "ArturSPAM24",
+            "link": "https://www.youtube.com/shorts/PzV9xPAGQ0E",
+            "hz": 240,
+            "percent": 100
+         },
+                                                                        {
+            "user": "randomperson_360",
+            "link": "",
+            "hz": 240,
+            "percent": 100
+         },
+                                                                                {
+            "user": "wucaf",
+            "link": "https://m.youtube.com/watch?v=dpFhShB4xbs",
+            "hz": 240,
+            "percent": 100
+         }
     ]
 }
