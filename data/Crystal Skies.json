@@ -8,5 +8,17 @@
     "percentToQualify": 96,
     "password": "Altjitter/Omnijitter/Ludwig/100FPS",
     "records": [
+                                                {
+            "user": "justanunknown",
+            "link": "https://youtu.be/UNC_8b0v2WM",
+            "percent": 100,
+            "hz": 100
+        },
+                                                        {
+            "user": "sobaken",
+            "link": "https://discord.com/channels/1482610459302559838/1482642581685928128/1547313229900816525",
+            "percent": 100,
+            "hz": 100
+        }
     ]
 }
