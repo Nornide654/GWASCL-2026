@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Alternating/CBF",
     "records": [
+                                                        {
+            "user": "StSlash",
+            "link": "https://www.youtube.com/watch?v=DR4hrPI61_Y",
+            "hz": 240,
+            "percent": 100
+         }
     ]
 }
