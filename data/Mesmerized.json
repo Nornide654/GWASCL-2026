@@ -20,6 +20,36 @@
             "link": "https://discord.com/channels/@me/1514374269503541369/1519792596430360699",
             "percent": 100,
             "hz": "CBF"
-        }
+        },
+                        {
+            "user": "randomperson_360",
+            "link": "",
+            "hz": 240,
+            "percent": 100
+         },
+                        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/aHCrgzKwhVg?si=3JoIssyQ_cyoJcrS",
+            "hz": 240,
+            "percent": 100
+         },
+                                {
+            "user": "rob01",
+            "link": "https://youtu.be/AK5R38oWo9o?si=i4ygBEmPt6Mg-WFi",
+            "hz": 240,
+            "percent": 100
+         },
+                                        {
+            "user": "ArturSPAM24",
+            "link": "https://youtu.be/oZ8AZf-6q1I",
+            "hz": 240,
+            "percent": 100
+         },
+                                                {
+            "user": "wucaf",
+            "link": "https://m.youtube.com/watch?v=f5wdNuvWcoY",
+            "hz": 240,
+            "percent": 100
+         }
     ]
 }
