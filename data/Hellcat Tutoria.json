@@ -8,12 +8,30 @@
     "percentToQualify": "100",
     "password": "Rake/CBF",
     "records": [
+                                      {
+        "user": "SomeDudeV3",
+        "link": "https://www.youtube.com/watch?v=08ErfCtqmS0",
+            "hz": "CBF",
+            "percent": 100
+                      },
+                              {
+        "user": "ywuChaos",
+        "link": "https://www.youtube.com/watch?v=sYlM-U2RWxw",
+            "hz": "CBF",
+            "percent": 100
+                      },
                       {
         "user": "AngoPR",
         "link": "https://youtu.be/pyELcqCcw9g?si=OrRj7aTemzSH_WqR",
             "hz": "CBF",
             "percent": 100
                       },
+                                {
+            "user": "liknod",
+      "link": "https://www.youtube.com/watch?v=hQExz-QUJRY",
+      "hz": "CBF",
+      "percent": 100
+        },
 {
     "user": "Delgado_Yeet_404",
     "link": "https://youtu.be/fp_YKEHRA4k?si=OJwwyG0tcW5UTou6",
@@ -26,11 +44,29 @@
     "hz": 240,
     "percent": 100
     },
+                              {
+        "user": "𝒩𝒪𝒞_𝐸𝒸𝓁𝒾𝓅𝓈𝑒𝒹",
+        "link": "https://youtu.be/pyELcqCcw9g?si=OrRj7aTemzSH_WqR",
+            "hz": "CBF",
+            "percent": 100
+                      },
                                                             {
    "user": "G1rcy",
    "link": "https://www.youtube.com/watch?v=0scKDR0n6aU",
    "hz": 240,
    "percent": 100
-    }
+    },
+                {
+            "user": "Draggeye",
+      "link": "https://www.youtube.com/watch?v=Uf2kcgtS400",
+      "hz": "CBF",
+      "percent": 100
+        },
+                                      {
+        "user": "evnado",
+        "link": "https://www.youtube.com/watch?v=XyjbwxSV8RQ",
+            "hz": "CBF",
+            "percent": 100
+                      }
     ]
 }
